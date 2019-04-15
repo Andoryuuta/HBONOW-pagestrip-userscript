@@ -9,4 +9,4 @@ Userscript that strips almost everything off the HBO NOW page except the player,
 
 
 # Notes
-* If you resize the window and the player gets misaligned due to the resize hook, simply press the hotkey again.
+* If you resize the window and the player gets misaligned due to the resize listener, simply press the hotkey again.
